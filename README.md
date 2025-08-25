@@ -1,0 +1,1 @@
+# Harshad-number-also-called-a-Niven-number-in-c-programming-language-
